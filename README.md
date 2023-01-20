@@ -7,7 +7,7 @@ I'm a Self-Taught Web Developer, I often find myself enjoy doing Developing Tool
 <br>
 
 
-\- 🔭 I’m currently working on [turn tweet into](https://www.turntweetinto.com/) & [Quotes and Sayings](https://quotesandsayings.net/authors/)
+\- 🔭 I’m currently working on [turn tweet into](https://www.turntweetinto.com/) & [Quotes and Sayings](https://quotesandsayings.net/)
 
 \- 🌱 I’m constantly learning **Nuxt 3, FastAPI & BASH**
 
