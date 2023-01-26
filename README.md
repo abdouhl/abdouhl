@@ -19,16 +19,15 @@ I'm a Self-Taught Web Developer, I often find myself enjoy doing Developing Tool
 <br/>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=abdouhl&show_icons=true&locale=en&theme=dark" alt="abdouhl" />
+
 <br>
+<br>
+ 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdouhl&theme=dark" alt="abdouhl" />
 </p>
 
 <br>
-<p align="center">
- <a href="https://twitter.com/abdou_hll" target="blank">
- <img src="https://img.shields.io/twitter/follow/abdou_hll?logo=twitter&style=for-the-badge" alt="abdou_hll" />
- </a>
-</p>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/abdou_hll" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="abdou_hll" height="30" width="40" /></a>
